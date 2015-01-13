@@ -1,0 +1,5 @@
+C:\Users\ABHINAV\Documents\Visual Studio 2012\Projects\GitDemo\GitDemo\bin\GitDemo.dll
+C:\Users\ABHINAV\Documents\Visual Studio 2012\Projects\GitDemo\GitDemo\bin\GitDemo.pdb
+C:\Users\ABHINAV\Documents\Visual Studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.csprojResolveAssemblyReference.cache
+C:\Users\ABHINAV\Documents\Visual Studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.dll
+C:\Users\ABHINAV\Documents\Visual Studio 2012\Projects\GitDemo\GitDemo\obj\Debug\GitDemo.pdb
